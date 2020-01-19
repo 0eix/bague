@@ -1,0 +1,16 @@
+.container
+{
+  position: center;
+  background: whitesmoke;
+  width: 70rem;
+  height: 40rem;
+  box-shadow: 12px 5px 20px 12px rgba(0,0,0,0.3 );
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+
+.droite
+{
+  margin-right: 2px;
+  width: 30%;
+}
